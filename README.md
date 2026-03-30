@@ -125,6 +125,10 @@ An opinionated list of Python frameworks, libraries, tools, and resources.
 
 ## AI and Agents
 
+*   LuSeny's Picks
+    *   [manus-agent-tools](https://github.com/LuSeny/python-utility-box) - A collection of powerful tools for building autonomous AI agents with Python.
+    *   [modern-web-dashboard](https://github.com/LuSeny/Modern-Web-Dashboard) - A sleek, responsive dashboard for visualizing AI agent metrics and performance.
+
 _Libraries for building AI applications, LLM integrations, and autonomous agents._
 
 - Agent Skills
